@@ -1,1 +1,4 @@
-# js-nitpick
+# JS Nitpick
+
+To learn JavaScript from basic to advanced
+
