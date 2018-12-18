@@ -27,3 +27,29 @@ These methods modify the array
 
 ## push
 * adds one or more elements to the end of an array and returns the new length of the array
+
+## reverse
+* Reverses the order of the elements of an array
+
+## shift
+* method removes the first element from an array and returns that removed element
+
+## unshift
+* adds one or more elements to the beginning of an array and returns the new length of the array
+
+## sort
+* method sorts the elements of an array in place and returns the array
+* default sort order is UTF-16 code units values
+* Syntax `arr.sort([compareFunction])`
+
+## splice
+* changes the contents of an array by removing or replacing existing elements and/or adding new elements.
+* `array.splice(start[, deleteCount[, item1[, item2[, ...]]]])`
+* return an array containing the deleted elements
+
+# Accessor methods
+
+methods do not modify the array and return some representation of the array
+
+# concat
+* Returns a new array that is this array joined with other arrays and/or value

@@ -27,3 +27,8 @@ let obj = {
 obj.addElem({});
 obj.addElem({});
 console.log(obj, obj.length);
+
+////Reverse
+let arr3 = [1,2,3,4];
+arr3.reverse();
+console.log(arr3);
